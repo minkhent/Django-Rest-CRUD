@@ -1,3 +1,3 @@
-# django-rest-CRUD
-POS system 
+# POS system 
+
 Developed by BEE data myanmar intern Team
